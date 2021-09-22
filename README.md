@@ -1,12 +1,12 @@
-# AutoRCCar
+# Self-Driving Car
 ## Python3 + OpenCV + YOLOv3 tiny
 
-<p style="color:Tomato;">Click on GIF to see self-driving in action</p>
+<p style="color:Tomato;font-size:300%;">=>>Click on GIF to see self-driving in action<<=</p>
 </br>
 <a href="https://www.youtube.com/watch?v=FiEcJnCTDOk
 " target="_blank"><img src="https://lh3.googleusercontent.com/TYOKntBHSvbR1lsVwdSzKE4ai13_t8TwKHAbUwjIz_nInBVqfOuIOFeb7SvtyUaNH8CNSY7UZpxTd82BTq-LqY0fgVLKYqoGZKONpSF67vAnOjez4177sReNWpDDZmqKVSrJ4CgzmJ6Zy9fCT246BFb0arfwXsSnjiib_QcprMvz6osTJMdBNQ8Mu1FHIZxPFGp7fLkbocKqq35mrmjmqv8mmPvSFkQrHTlURpIqJDhLwPB3k4BSQ_kvfz8cIkEMmO94myNRKfztEBf1zQT_oiKyncdMOvRcaOS-KxbR80yBG9AGHw9s0z-HCXsmU4_JkjK5ia2la6lEB8Phr1-v2V6scuOVnl9BYNo80gDz5j0gw1FL9LSv6Ifk_722hdruV1D4vjOPBd2MEWdkrOOAYwrJIzjVT4kopvZcPGrpYBv7iyU7XN1Rg-4pX6HgIwTzgz6CwlZodevhDIS91H8YIEAUuKV_BNiTgUzsryH0nfOKRsxql2qOPOyd7dc5Epfvpglb51o84klCP5uXCCNgNNA6rOKnOibVlePFZ8DnxbiYN3-uwfWOcPChf5Q93lTh1RnhDi-6EuEEElyfqcihizZHYFdvVcA0uZ0lf1uHo9ygO5xzG5YPXg0P-lgN5R3MZU1w7SHlxE66k7M0-Uw_JZlbdgAqS_16zAb_joPa0GW9n2L-PbtltISHPwt3hyVG_Q-y19naFPomNk2zac27Jfdr=w328-h185-no?authuser=0" width="360" height="240" border="10" /></a>
 
-This project builds a self-driving RC car using Jetson Nano and open source software. Jetson Nano collects inputs from a camera module,Jetson Nano processes input images for object detection (trafic sign,direction of line,intersection). A neural network model runs on Jetson Nano and makes predictions combined with some images processing program for steering based on input images. 
+This project builds a self-driving car using Jetson Nano and open source software. Jetson Nano collects inputs from a camera module,Jetson Nano processes input images for object detection (trafic sign,direction of line,intersection). A neural network model runs on Jetson Nano and makes predictions combined with some images processing program for steering based on input images. 
 
 ## Data Collection
 </br>
