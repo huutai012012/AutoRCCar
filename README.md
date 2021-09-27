@@ -4,22 +4,22 @@
 <p style="color:Tomato;font-size:300%;">=>>Click on GIF to see self-driving in action<<=</p>
 </br>
 <a href="https://www.youtube.com/watch?v=FiEcJnCTDOk
-" target="_blank"><img src="https://lh3.googleusercontent.com/mmeHiEbSLM3Jh7FIVIzGUt4Ja2ZQhlmkD4GzClhPU39NVcWdDOHnCX71A7wBJybVRxr9vEfMukT2HAtGYei35NeIxafefmd8PmZgIbmLKgQNkIQecDSYY58GAnCcFmZtUAAx5kF-EwAL7frPUIvEA8jw0F-eVuu2_L4q05QnBnrHbYp_Tgo1GMGSQN61vJJMVjquAY1vAw4GVxMtUAnZ_mJKgNJXSyifkGmCbGXA0axI-Nss3gW2FQ5RNpl94MsHNoxRApkXRDI12IWDHfp3vLASLYnVVXjW2xaWiQsnQs-jnibtxB_JLvPydxXhb9jOxvOGSxeIktCS76jio3zmw-RMye4tRFsSZmJSTB8CS6aEv_7yCCAYoT_QUD6esAYcVoOcVvxmER00WFVjJxCf0eeBvazOfg8l-w65Q4d7XGKBwQOPNyoYvE_cHLepq4DTMUdKvUfB7fSVErN1DpVgxMQ0T7WN8Ehuvpp9c2vtMXv2h0BuVjHOVu3UUb2J4Qg0t_4wfUzcgNfx-llLbe2fgwnFXUL1ssH0wXaHkSZJu1zYH7PjJ0NgP3eJ2d3zbaG4zMB7KwMXljCI5VUShWzhEef0Y2L7b0hSAkl5vQwScQhd2A86vtDIwshDAORcW7F_Qo4Q5L46jIJoezwqa3usvvvQBI3Rsqha7GVyrvpcsdB-10Ol8AmFpuSx61lCxDZ8raeXcmsw3nsE2929ikwT0fS2=w1272-h718-no?authuser=0" width="360" height="240" border="10" /></a>
+" target="_blank"><img src="https://photos.app.goo.gl/mKK9LRZqTeUPWgWw7" width="360" height="240" border="10" /></a>
 </br>
 <p>-------</p>
 <a href="https://www.youtube.com/watch?v=FiEcJnCTDOk
-" target="_blank"><img src="https://lh3.googleusercontent.com/h-rsjQJRaMelWjfhDt8mLew1-Ffjbpqy-thLWxLwzMtg35cWqogSeiqlGM6LDMt4PwsiHde_DdjFygI-vz7gZKCL-EncSzCcZhB07Wwla33vh18OIwxd-cVtAuhQQDxZ2hIhs4w8bgJXrokdcf86X7O5FmkxVkAj-wnKNtYNj1V-X4lP3koJchkQWAGZULkK6odUNMB9yqOAGb-BU-9_xNAWPTg2Mbb6jiyQLAkXgXKGaIgZOuWJ5rUYvDM2S9qlt2Gq-VTnmxklCwD4I2DvgfQ5S8hNPZaCXDMW60HNcsBA7kMXbmp4BVm7DH6VZUtL-vCdpR4xCGxhDVswC8ukAO_Vq1DonhKCYUtt9H87eZzAIMCMetQNczGdoszO42BD51QPyXeOe2c90c7eEItafI6KQXQfTauPvcZz6MZIu_kyx71RFsYPHUfZ7RhGZPQO8PqthnUd2OXb3KDAlLXfkM5jpzC6nkWVSRCfglbzB2g6HcAks7Vm3ZtZbf87YulPP-TO6zjy6TgN49PFn70PBed2Jy59fm8nn2c67-U4iXcba8MUCey0y8hORNPawlxu29xLqztaEkzhrnf5Lk5JuwIEHR8OnbrDWnm1fOiixz9e83Se_HfKZjFy0_JelcFimRR5TzT-740lFhZKlmhztb22koPWgkleTFHwiYNuUFtdm9RbSaQ9GQSrJiXhmyl7oF55FcIpmbHCdQYHLauHXrqh=w312-h175-no?authuser=0" width="360" height="240" border="10" /></a>
+" target="_blank"><img src="https://photos.app.goo.gl/NMoCr9TpKiAWYmTe6" width="360" height="240" border="10" /></a>
 </br>
 This project builds a self-driving car using Jetson Nano and open source software. Jetson Nano collects inputs from a camera module,Jetson Nano processes input images for object detection (trafic sign,direction of line,intersection). A neural network model runs on Jetson Nano and makes predictions combined with some images processing program for steering based on input images. 
 
 ## Data Collection
 </br>
-<img src="https://lh3.googleusercontent.com/tUH1xgzHV2l1kjaTmTmwolLohKBEwFYfSImX64OewtxrG1vPmmG_oZsmgb9n7gAhq0Q1I08_MLfijdAP-ZZeMpkzCKurEOvfX8BJhZD0aASNgdSsYt0qin53bLJwIS_UFgiAPzgREJfsHqLXC8ZO8mPb_o_7w9EzF2bRTPbKrIbuRueUGvgMC_8K9cQTNUVgJ9QxDkAO4ZAPIDFUbSZkjHcVcyJOve8VXjay-LoXlWCmpDJDgP1B64JkU9jnlUo5ezFPlqBjAJIXAaebgzh3NyNUuzsxwhc6Yncin22aKT98G0lg5b6zojp7LwmHJpty0tjiMWul8s28EyYvvZJHKjk8uXy2PPaox2VmnQljmvYXRGbaRPisNWxk3ymXde9H9xY8L15b-6o6L-BUX0GbrDFLM-ynPBYM86sy8Shzd9LJrWnqhq1Mt152mHcgsdx0N-LQmsKx8i5NBS2WkaNbAYUAzHPSkqGH4pnk54ZxSOrxvNAg0FaJQRr4Dp8IU2n7xQCU4fK1sHbHkmUya0cUHDvyGF3reBdSphU71w6j189_k1RTF1WZaxS4EtYlQFNxYQSiMnT-BgzAVQrFAFT6L5lyBkJW6MNRdTCh_WNlvlhst7sy5CoN0szMyj8vQ_4lCVTaGfCU29arjrsubJFyf6wK0xjLx6ZnHNHaHCBkXoWBtOIjDHslSIxzmOno_n-9NugZU7aHG7P3mGrusHVqr2D1=w1366-h768-no?authuser=0" width="600">
+<img src="https://photos.app.goo.gl/9qSEbSsneFtHAL3HA" width="600">
 
 Using webcam to take images and label by LABELIMG
 In this project we have 4 classes
 </br>
-<img src="https://lh3.googleusercontent.com/mBiuTvn6JMeVRMK8k5Mgb8Ye9PBshriiauUCFlmHpfJngE9VlssMmu91kpd0SGdYXxaRiQ0Hy-evuxH-VD3UidlUjMPCYA8SMAIAKklP9h-wyHRShF86-dYZIjAD4tD-AfT9Gn6X21MbiEtUdzW4sDxcubQwQoS---eU3Wh661gEwblyF2Z5FkCfDxEuTgmBmWjkka2uMF9Son2ipUh5Tx1-XlfoGTiQxJqqKCz46NfX27Mv0LNKqgmHLIR3hcA8h16kX7B3niiRNfnAk_8ocHRVxFz0gOyiv9xc2juM4uPz23QwQdAKtflxOG4wC8Bc1sYxEz394wnp1mYyaIp_-dqbSx0nMsuRwErhx9pbf8f4EZCBmh4uPYfFUvTCeetIyToU5RQ3e7F_qr81y2vhU2hwaLQFro8pcz0LVABFP-N7rOazC14Aab7_KCgzEzJ8N0yq22WNDOfmucc5wWsaqkbnDRaLiQwg2PA_4razTebsoKVB8jPoaL7SQt-yRxSea8cc4U7iti0oRbHVwbnsyvRG1R_xTSRV14vOsyKOBAd_JCMAUvZmd1CWVvfqdfdRE6g3rufVX3jIMEblxBy9YkaIvR_3LOchAdvgKTxu3mIIFKyC5tnWtF5lw_t0Vzs3NTEDYUZsP9JTq23GaOpishJO_3JTbwocLTSLSvycFwOI3lJnRa73GEmRebAetBug6rCMkOPXJF5ruNl_n7SNNPy2=w439-h114-no?authuser=0" width="600">
+<img src="https://photos.app.goo.gl/Vh36dotDCDBYjyJm7" width="600">
 </br>
 ## References
 </br>
