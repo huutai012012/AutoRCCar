@@ -4,7 +4,7 @@
 <p style="color:Tomato;font-size:300%;">=>>Click on GIF to see self-driving in action<<=</p>
 </br>
 <a href="https://www.youtube.com/watch?v=FiEcJnCTDOk
-" target="_blank"><img src="https://photos.app.goo.gl/mKK9LRZqTeUPWgWw7" width="360" height="240" border="10" /></a>
+" target="_blank"><img src="./img/video-_online-video-cutter.com_.gif" width="360" height="240" border="10" /></a>
 </br>
 <p>-------</p>
 <a href="https://www.youtube.com/watch?v=FiEcJnCTDOk
